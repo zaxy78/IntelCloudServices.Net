@@ -1,7 +1,7 @@
 Intel Cloud Services SDK for .Net 
 ==========
 
-This is a Portable Library of C# Client for the Intel Cloud Services: http://software.intel.com/cloudservicesplatform/home
+This is a Portable Library of C# Client for the Intel Cloud Services: http://tinyurl.com/IntelCS
 
 This Portable Library is in early Alpha:  *** still won't work ***
 Results May Vary. 
