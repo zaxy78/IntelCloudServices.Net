@@ -10,7 +10,7 @@ What's a Portable Library?
 =========
 Portable library is a .NET binary lib (dll) compatible with few different platforms.
 
-This IntelCS.Net Protable Library is compatible with .NET4, .NET 4.5, Win8 Apps & Windows Phone 7.5 and 8.
+This IntelCS.Net Protable Library is compatible with .NET4.1+, .NET 4.5, Win8 Apps & Windows Phone 7.5 and 8.
 For this to work, Visual Studio combines the biggest set of APIs - which is common to all platforms.
 
 Try It!
